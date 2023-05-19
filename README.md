@@ -1,0 +1,2 @@
+# JavaCourseDesign
+java语言课程设计，基于javafx做的一个餐馆菜单信息管理系统
